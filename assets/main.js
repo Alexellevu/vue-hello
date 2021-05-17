@@ -4,8 +4,8 @@
 const app = new Vue(
     {
         el:'#root',
-        data:{message:'hello Alex'},
-        data:{immagine:''}
+        data:{message:'hello',immagine:''}
+       
     }
     
 );
