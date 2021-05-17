@@ -4,7 +4,8 @@
 const app = new Vue(
     {
         el:'#root',
-        data:{message:'hello'}
+        data:{message:'boolean careers', image:'./assets/server.jpg'}
+        
        
     }
     
